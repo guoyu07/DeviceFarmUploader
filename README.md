@@ -1,5 +1,5 @@
 # DeviceFarmUploader
-Command line tool written in C# that uses Amazon's Device Farm API to upload and manage tests
+Command line tool written in C# that uses Amazon's Device Farm API to upload and manage tests written with Calabash. 
 
 I wrote this tool to help with test automation using Device Farm, before moving on to other projects. I am making it freely available because it might be useful to somebody else, but I haven't spent a lot of time or efforts to make it totally configurable or functional. The tool met my specific needs for the project I was on, so please bear that in mind. 
 
